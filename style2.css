@@ -1,0 +1,33 @@
+
+p{
+	color: #ff3333;
+}
+body{
+	
+}
+
+span{
+	color:cyan;
+	font-weight:bold;
+	text-decoration:underline;
+	text-shadow:2px 2px black;
+	
+}
+
+span:hover{
+	background-color:blue;
+	cursor:pointer;
+}
+
+.cyan{
+	color:  #1affff;
+}
+
+#yellow{
+	color:  #ffff99;
+}
+.bold {
+	font-weight:bold;
+	text-decoration:underline;
+	font-style:italic;
+}
